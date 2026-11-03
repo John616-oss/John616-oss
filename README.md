@@ -60,15 +60,19 @@ I am an Information Technology student interested in programming, web developmen
 
 ## GITHUB STATISTICS
 
+
+## GITHUB STATISTICS
+
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=John616-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=BF00FF&text_color=FFFFFF" alt="GitHub Statistics" />
+<img width="90%" src="https://github-stats-extended.vercel.app/api?username=John616-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=BF00FF&text_color=FFFFFF" alt="GitHub Statistics" />
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=John616-oss&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John616-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" />
+<img width="90%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=John616-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
+
 
 ---
 
