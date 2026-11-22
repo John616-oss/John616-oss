@@ -40,6 +40,7 @@ I am an Information Technology student interested in programming, web developmen
 
 ### Programming Languages
 - PHP
+- Typescript
 - Java
 - Python
 - C#
@@ -48,6 +49,7 @@ I am an Information Technology student interested in programming, web developmen
 - HTML
 - CSS
 - JavaScript
+- React
 
 ### Database and Tools
 - MySQL
@@ -55,6 +57,7 @@ I am an Information Technology student interested in programming, web developmen
 - GitHub
 - Visual Studio Code
 - XAMPP
+- Supabase
 
 ---
 
