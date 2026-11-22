@@ -34,7 +34,7 @@ I am an Information Technology student interested in programming, web developmen
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,php,typescript,react,html,css,js,cs,C#,java,python,git,github,vscode&theme=dark" alt="Technologies and Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,php,typescript,react,html,css,js,git,github,vscode&theme=dark" alt="Technologies and Tools" />
 
 </div>
 
